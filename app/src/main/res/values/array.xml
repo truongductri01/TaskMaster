@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="inspirational_quotes">
+        <item>Do. Or do not. There is no try</item>
+        <item>This girl is on fire!</item>
+        <item>What doesn\'t kill you makes you stronger!</item>
+        <item>I\'ve got the eye of the tiger</item>
+        <item> It\'s my life! And it\'s now or never! I ain\'t gonna live forever!</item>
+    </string-array>
+</resources>

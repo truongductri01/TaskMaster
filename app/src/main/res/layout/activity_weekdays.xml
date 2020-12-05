@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#07294D"
+    android:orientation="vertical">
+    <!--    tools:context="com.example.todolist.weekdaysActivity">-->
+
+    <Button
+        android:id="@+id/backBtn"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Go Back"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/mondayBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Monday" />
+
+        <Button
+            android:id="@+id/tuesdayBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tuesday" />
+
+        <Button
+            android:id="@+id/wednesdayBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wednesday" />
+
+        <Button
+            android:id="@+id/thursdayBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Thursday" />
+
+        <Button
+            android:id="@+id/fridayBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Friday" />
+
+        <Button
+            android:id="@+id/saturdayBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Saturday" />
+
+        <Button
+            android:id="@+id/sundayBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sunday" />
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Tap any button to see ur tasks for that day"
+            android:textColor="#FFC107" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
