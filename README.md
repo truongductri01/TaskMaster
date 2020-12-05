@@ -1,4 +1,4 @@
-**Features of the app:**
+### Features of the app:
 1. The inspirational quotes at the main page
 2. The credit page which shows 4 names
 3. The add Activity that allow user to input their Task's info. If task name is not filled, Toast raised.
@@ -6,14 +6,12 @@
 5. Weekday button: click on each button to see if tasks is distributed correctly.
 
 
-**Resources:**
+### Resources:
 1. YouTube video on TimePickerFragment: https://www.youtube.com/watch?v=QMwaNN_aM3U
 2. YouTube video on AlarmManager: https://www.youtube.com/watch?v=yrpimdBRk5Q&t=606s
 
-**User Guide**
 
-**How to use different features of the app**
-
+### User Guide
 **Home Page:**
 
 In the home page, you will find 4 buttons and each of those buttons will lead to a different page.
@@ -61,7 +59,8 @@ Click “pause” to pause the music.
 
 click “stop” to stop the music and restart it at the beginning.
 
-**System Manual:**
+
+### System Manual:
 
 **Minimum Hardware and Software Requirements:**
 
@@ -100,7 +99,7 @@ Wait for about a minute to allow gradle to complete synchronization.
 
 In the “Build” window of Android studio, click on the blue “set dir” link and wait for a few seconds.
 
-**If any issue comes up, please contact:**
+#### If any issue comes up, please contact:
 
 Tri Truong: tdt45@drexel.edu
 
