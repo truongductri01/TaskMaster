@@ -5,6 +5,8 @@
 4. Notification based on time input, no time -> no notification.
 5. Weekday button: click on each button to see if tasks is distributed correctly.
 
+**Presentation Source**: [Final Presentation and Contributors](https://drive.google.com/drive/folders/1Lhn_63bTn9YNkhAK3zSDSRtFKCXEq5Ik?usp=sharing)
+
 
 ### Resources:
 1. YouTube video on TimePickerFragment: https://www.youtube.com/watch?v=QMwaNN_aM3U
